@@ -17,9 +17,7 @@ return require('packer').startup(function(use)
 
 	use("theprimeagen/harpoon")
   use ('folke/tokyonight.nvim')
-  use ('Mofiqul/dracula.nvim')
-
-
+  use ('ellisonleao/gruvbox.nvim')
 
 	use {
 		'VonHeikemen/lsp-zero.nvim',
